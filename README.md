@@ -1,4 +1,4 @@
-# Resumo contendo resumos, anotações, dicas sobre o uso da Azure e como criar uma maquina vitual.
+# Resumo contendo resumos, anotações, como criar uma máquina vitual e dicas sobre seu uso.
 
 ## 📌 Conteúdo
 
